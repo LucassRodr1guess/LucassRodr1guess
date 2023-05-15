@@ -1,7 +1,4 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
+
 
 ### <div align="center">Eu sou o Lucas, Estudante de Programação e desenvolvimento  👨‍🎓
 </div>  
